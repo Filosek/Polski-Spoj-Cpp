@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542229701 source:d:\programowanie\cpp\wwsi_spoj\wwsi-spoj\stos - stos\main.cpp
+	<iostream>
+	<vector>
+
